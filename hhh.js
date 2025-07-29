@@ -1,6 +1,6 @@
 //this is nothing for real
 const hhh = {
-  name: 'hhh',
+  name: 'hhh',//hhh.js
   description: 'This is a test object for hhh.js',
   version: '1.0.0',
   author: 'John Doe',
